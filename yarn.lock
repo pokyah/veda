@@ -97,9 +97,9 @@
   version "1.4.32"
   resolved "https://registry.yarnpkg.com/@types/socket.io-client/-/socket.io-client-1.4.32.tgz#988a65a0386c274b1c22a55377fab6a30789ac14"
 
-"@types/three@^0.92.14":
-  version "0.92.14"
-  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.92.14.tgz#a9a4febad61b9e6ef6446b8151f1398ac6524dea"
+"@types/three@^0.92.20":
+  version "0.92.20"
+  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.92.20.tgz#f9390b665b02e809ad0a2dca41e2ac071133f9b3"
   dependencies:
     "@types/webvr-api" "*"
 
